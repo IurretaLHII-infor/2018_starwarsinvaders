@@ -1,0 +1,266 @@
+[
+    {
+        "outputFile": "C:\\home\\sasiroot\\Musika\\StarWarsInvaders\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\home\\sasiroot\\.android\\build-cache\\c3f620e8e7afc74054bb04b7afb90e8376a59fd0\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\home\\sasiroot\\Musika\\StarWarsInvaders\\C:\\Users\\Julen\\Desktop\\StarWarsInvaders\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\home\\sasiroot\\Musika\\StarWarsInvaders\\C:\\Users\\Julen\\.android\\build-cache\\24f4798884133cb8f3c96a642f07377b5a3cf8b7\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Julen\\Desktop\\StarWarsInvaders\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Julen\\.android\\build-cache\\24f4798884133cb8f3c96a642f07377b5a3cf8b7\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\home\\sasiroot\\Musika\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\home\\sasiroot\\Musika\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\home\\sasiroot\\.android\\build-cache\\fe450e86996bac7a8550212eb4a8149c555e4bdf\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\home\\sasiroot\\Musika\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\home\\sasiroot\\Musika\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\home\\sasiroot\\.android\\build-cache\\fe450e86996bac7a8550212eb4a8149c555e4bdf\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\home\\sasiroot\\Musika\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\home\\sasiroot\\AndroidStudioProjects\\StarWarsInvaders\\C:\\Users\\Julen\\Desktop\\StarWarsInvaders\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\home\\sasiroot\\Musika\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\home\\sasiroot\\AndroidStudioProjects\\StarWarsInvaders\\C:\\Users\\Julen\\.android\\build-cache\\24f4798884133cb8f3c96a642f07377b5a3cf8b7\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\home\\sasiroot\\Musika\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\Users\\Julen\\Desktop\\StarWarsInvaders\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\home\\sasiroot\\Musika\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\Users\\Julen\\.android\\build-cache\\24f4798884133cb8f3c96a642f07377b5a3cf8b7\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\home\\sasiroot\\Musika\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\home\\sasiroot\\AndroidStudioProjects\\StarWarsInvaders\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\home\\sasiroot\\Musika\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\home\\sasiroot\\.android\\build-cache\\fe450e86996bac7a8550212eb4a8149c555e4bdf\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\home\\sasiroot\\Musika\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\Users\\Julen\\Desktop\\StarWarsInvaders\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\home\\sasiroot\\Musika\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\Users\\Julen\\.android\\build-cache\\24f4798884133cb8f3c96a642f07377b5a3cf8b7\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\home\\sasiroot\\Musika\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\Users\\Julen\\Desktop\\StarWarsInvaders\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\home\\sasiroot\\Musika\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\C:\\Users\\Julen\\.android\\build-cache\\24f4798884133cb8f3c96a642f07377b5a3cf8b7\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\home\\sasiroot\\Musika\\StarWarsInvaders\\C:\\home\\sasiroot\\Bideoak\\StarWarsInvaders\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\home\\sasiroot\\Musika\\StarWarsInvaders\\C:\\home\\sasiroot\\.android\\build-cache\\c3f620e8e7afc74054bb04b7afb90e8376a59fd0\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

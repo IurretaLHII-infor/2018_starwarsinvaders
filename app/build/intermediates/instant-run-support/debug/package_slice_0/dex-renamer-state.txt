@@ -1,0 +1,4 @@
+#Thu May 10 20:51:13 CEST 2018
+base.0=C\:\\Users\\Julen\\Desktop\\StarWarsInvaders\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\39
+path.0=classes.dex
+renamed.0=classes.dex
